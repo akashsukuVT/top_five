@@ -1,5 +1,6 @@
-Nathan Le
-Akash Sukumaran
+# Team members
+Nathan Le,
+Akash Sukumaran,
 Alejandro Castillo Valero
 
 # top_five
